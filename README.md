@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElviraGider
-- 👀 I’m interested in books and films
-- 🌱 I’m currently learning on QA engineer at Python
+- 👀 I’m interested in books, films and sport.
+- 🌱 I’m currently learning on QA engineer on Python at SkillFactory
 - 💞️ I’m looking to collaborate on IT companies
 - 📫 Telegram @ElleGider
 
